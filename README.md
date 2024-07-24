@@ -1,16 +1,18 @@
 ## Welcome to my GitHub account ✨
 
-
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sagar+Singh+Bhandari....;Computer+Science+Student;Problem+Solver....;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="http://www.linkedin.com/in/sagar-singh-bhandari-4176a328b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagarsinghbhandari" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Sagar_Singh_Bhandari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagar" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/singhbhancv6b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sagar" height="30" width="40" /></a>  
 </p>
+
 </br>
+
 # 🖥️ Technical Skills: 
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -57,16 +59,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SagarSinghBhandari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
-
-<!--START_SECTION:waka-->
-
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-C++      4 hrs 38 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/SagarSinghBhandari.SagarSinghBhandari.svg)
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -75,3 +67,11 @@ C++      4 hrs 38 mins    ██████████████████
   
   <br/><br/><br/>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 58 mins    █████████████████████████   100.00 %
+C++      4 hrs 38 mins    █████████████████████████   100.00 %
