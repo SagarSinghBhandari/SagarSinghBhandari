@@ -1,5 +1,5 @@
 ## Welcome to my GitHub account ✨
-
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/SagarSinghBhandari)
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Sagar+Singh+Bhandari....;Computer+Science+Student;Problem+Solver....;Learning+In+Public..;Nice+To+Meet+You+....&center=true"></a></p>
